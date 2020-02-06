@@ -5,7 +5,7 @@ Usage example are for only 1 display board, if you want to stack more boards is 
 This display has a Pmod connector. Pmod connectors are used by Digilent products.  
 
 ### Schematic
-![schematic](assets/OHO_DY1_schematic.png)
+![schematic](./assets/OHO_DY1_schematic.png)
 
 ### Links
 - [OHO Elektronik home](http://www.oho-elektronik.de/)
