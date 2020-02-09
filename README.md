@@ -4,6 +4,8 @@ This display has 3 common-anode 7-segments led display. Each display is driven b
 Usage example are for only 1 display board, if you want to stack more boards is simple to edit and add other digits.  
 This display has a Pmod connector. Pmod connectors are used by Digilent products: it's the 6-pin header on top.  
 
+[![Watch the video](https://img.youtube.com/vi/sKgoJp4Bnr0/maxresdefault.jpg)](https://youtu.be/sKgoJp4Bnr0)
+
 ### Display Pmod Pinout
 Pinout of 6-pin (Pmod) connector on top (digits goes with dot in the lower-right corner). Pin 1 is on the left
 
