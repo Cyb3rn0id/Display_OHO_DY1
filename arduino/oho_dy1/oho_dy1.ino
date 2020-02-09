@@ -1,7 +1,7 @@
 /*
  * Usage example for 7-led segment 3-digits display
- * OHO Elektronik / Trenz Electronic
- * model OHO_DY1
+ * OHO Elektronik 
+ * model OHO DY1, distributed by Trenz Electronics
  * see connection diagram on Github
  * (c)2020 Giovanni Bernardo (CyB3rn0id)
  * https://www.settorezero.com
