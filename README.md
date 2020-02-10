@@ -21,6 +21,9 @@ Pinout of 6-pin (Pmod) connector on top (digits goes with dot in the lower-right
 ### Display Schematic
 ![schematic](./assets/OHO_DY1_schematic.png)
 
+### Hand-Made Schematic
+![schematic](./assets/display_OHO_DY1.jpg)
+
 ### Links
 - [OHO Elektronik home](http://www.oho-elektronik.de/)
 - [Trenk Electronic shop](https://shop.trenz-electronic.de/de/TE0265-00C-3-3-V-3-Digit-7-Segment-Display-Rot?c=7)
