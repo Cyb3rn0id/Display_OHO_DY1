@@ -25,6 +25,7 @@ Pinout of 6-pin (Pmod) connector on top (digits goes with dot in the lower-right
 ![schematic](./assets/display_OHO_DY1.jpg)
 
 ### Links
+- [Those examples explained - Italian Language](https://www.settorezero.com/wordpress/pilotare-display-led-7-segmenti-mediante-74hc595-esempio-con-pic-e-arduino/)
 - [OHO Elektronik home](http://www.oho-elektronik.de/)
 - [Trenk Electronic shop](https://shop.trenz-electronic.de/de/TE0265-00C-3-3-V-3-Digit-7-Segment-Display-Rot?c=7)
 - [Pmod connector](https://store.digilentinc.com/pmod-modules-connectors/)
